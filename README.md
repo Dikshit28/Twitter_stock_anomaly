@@ -1,5 +1,9 @@
-# Azure Anomaly Detector API to Analyze Stock Performance Data
+# UNVEILING STOCK PRICE ANOMALIES:
+
+### HARNESSING AZURE AND PYTHON FOR DETECTION
 
 Usage:
-* To download and prepare stock performance data from Alpha Vantage API > prep_stock_data_from_alpha_vantage.ipynb
-* Use Azure Anomaly Detector API to analyze/visualize stock performance data > anomaly_detector_api_to_analyze_stock_perf.ipynb
+
+- Precise anomaly detection: Utilizing Azure and Python, our project offers a comprehensive solution to accurately identify stock price anomalies.
+
+- Seamless integration and visualization: Leveraging Azure services, we seamlessly extract, preprocess, and visualize stock data for effective anomaly detection.
